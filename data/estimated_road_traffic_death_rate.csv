@@ -1,0 +1,198 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,GLOBAL,Global,Country,HKG,"China, Hong Kong Special Administrative Region",Year,2021,true,,,,,,,,,,,,,0,,,,,,0.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,GLOBAL,Global,Country,MAC,"China, Macao Special Administrative Region",Year,2021,true,,,,,,,,,,,,,0,,,,,,0.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,MCO,Monaco,Year,2021,true,,,,,,,,,,,,,0,,,,,,0.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2021,true,,,,,,,,,,,,,0,,,,,,0.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2021,true,,,,,,,,,,,,,1.3,,,,,,1.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,NOR,Norway,Year,2021,true,,,,,,,,,,,,,1.5,,,,,,1.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,MLT,Malta,Year,2021,true,,,,,,,,,,,,,1.9,,,,,,1.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2021,true,,,,,,,,,,,,,1.9,,,,,,1.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,BRB,Barbados,Year,2021,true,,,,,,,,,,,,,10,,,,,,10.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,CHL,Chile,Year,2021,true,,,,,,,,,,,,,10.3,,,,,,10.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2021,true,,,,,,,,,,,,,10.5,,,,,,10.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2021,true,,,,,,,,,,,,,10.6,,,,,,10.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2021,true,,,,,,,,,,,,,10.6,,,,,,10.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ALB,Albania,Year,2021,true,,,,,,,,,,,,,10.8,,,,,,10.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,DMA,Dominica,Year,2021,true,,,,,,,,,,,,,11,,,,,,11.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2021,true,,,,,,,,,,,,,11,,,,,,11.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2021,true,,,,,,,,,,,,,11.2,,,,,,11.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2021,true,,,,,,,,,,,,,11.3,,,,,,11.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2021,true,,,,,,,,,,,,,11.5,,,,,,11.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2021,true,,,,,,,,,,,,,11.6,,,,,,11.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2021,true,,,,,,,,,,,,,11.7,,,,,,11.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2021,true,,,,,,,,,,,,,11.7,,,,,,11.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2021,true,,,,,,,,,,,,,11.9,,,,,,11.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2021,true,,,,,,,,,,,,,11.9,,,,,,11.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,MEX,Mexico,Year,2021,true,,,,,,,,,,,,,12,,,,,,12.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2021,true,,,,,,,,,,,,,12,,,,,,12.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2021,true,,,,,,,,,,,,,12.2,,,,,,12.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2021,true,,,,,,,,,,,,,12.2,,,,,,12.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,BDI,Burundi,Year,2021,true,,,,,,,,,,,,,12.3,,,,,,12.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2021,true,,,,,,,,,,,,,12.4,,,,,,12.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,GAB,Gabon,Year,2021,true,,,,,,,,,,,,,12.5,,,,,,12.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,PRI,Puerto Rico,Year,2021,true,,,,,,,,,,,,,12.5,,,,,,12.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2021,true,,,,,,,,,,,,,12.5,,,,,,12.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2021,true,,,,,,,,,,,,,12.6,,,,,,12.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,GEO,Georgia,Year,2021,true,,,,,,,,,,,,,12.7,,,,,,12.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,PER,Peru,Year,2021,true,,,,,,,,,,,,,12.7,,,,,,12.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,URY,Uruguay,Year,2021,true,,,,,,,,,,,,,13,,,,,,13.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2021,true,,,,,,,,,,,,,13.2,,,,,,13.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2021,true,,,,,,,,,,,,,13.3,,,,,,13.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ARM,Armenia,Year,2021,true,,,,,,,,,,,,,13.6,,,,,,13.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2021,true,,,,,,,,,,,,,13.6,,,,,,13.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2021,true,,,,,,,,,,,,,13.6,,,,,,13.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2021,true,,,,,,,,,,,,,13.7,,,,,,13.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2021,true,,,,,,,,,,,,,13.8,,,,,,13.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2021,true,,,,,,,,,,,,,13.9,,,,,,13.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2021,true,,,,,,,,,,,,,13.9,,,,,,13.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2021,true,,,,,,,,,,,,,14.1,,,,,,14.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,USA,United States of America,Year,2021,true,,,,,,,,,,,,,14.2,,,,,,14.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,IND,India,Year,2021,true,,,,,,,,,,,,,14.6,,,,,,14.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2021,true,,,,,,,,,,,,,14.9,,,,,,14.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,AGO,Angola,Year,2021,true,,,,,,,,,,,,,15,,,,,,15.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,GUY,Guyana,Year,2021,true,,,,,,,,,,,,,15.2,,,,,,15.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,LBR,Liberia,Year,2021,true,,,,,,,,,,,,,15.3,,,,,,15.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2021,true,,,,,,,,,,,,,15.5,,,,,,15.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,BRA,Brazil,Year,2021,true,,,,,,,,,,,,,15.7,,,,,,15.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2021,true,,,,,,,,,,,,,15.8,,,,,,15.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,UGA,Uganda,Year,2021,true,,,,,,,,,,,,,16,,,,,,16.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,BHS,Bahamas,Year,2021,true,,,,,,,,,,,,,16.2,,,,,,16.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,COL,Colombia,Year,2021,true,,,,,,,,,,,,,16.2,,,,,,16.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,SUR,Suriname,Year,2021,true,,,,,,,,,,,,,16.2,,,,,,16.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2021,true,,,,,,,,,,,,,16.3,,,,,,16.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2021,true,,,,,,,,,,,,,16.3,,,,,,16.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2021,true,,,,,,,,,,,,,16.4,,,,,,16.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,BWA,Botswana,Year,2021,true,,,,,,,,,,,,,16.5,,,,,,16.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2021,true,,,,,,,,,,,,,16.5,,,,,,16.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2021,true,,,,,,,,,,,,,17.1,,,,,,17.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2021,true,,,,,,,,,,,,,17.2,,,,,,17.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2021,true,,,,,,,,,,,,,17.2,,,,,,17.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,CHN,China,Year,2021,true,,,,,,,,,,,,,17.4,,,,,,17.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,BLZ,Belize,Year,2021,true,,,,,,,,,,,,,17.5,,,,,,17.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2021,true,,,,,,,,,,,,,17.6,,,,,,17.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2021,true,,,,,,,,,,,,,17.6,,,,,,17.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2021,true,,,,,,,,,,,,,17.7,,,,,,17.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2021,true,,,,,,,,,,,,,17.7,,,,,,17.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2021,true,,,,,,,,,,,,,17.7,,,,,,17.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2021,true,,,,,,,,,,,,,17.8,,,,,,17.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2021,true,,,,,,,,,,,,,17.9,,,,,,17.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,DZA,Algeria,Year,2021,true,,,,,,,,,,,,,18.3,,,,,,18.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,HND,Honduras,Year,2021,true,,,,,,,,,,,,,18.5,,,,,,18.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2021,true,,,,,,,,,,,,,18.5,,,,,,18.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2021,true,,,,,,,,,,,,,18.6,,,,,,18.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2021,true,,,,,,,,,,,,,18.6,,,,,,18.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2021,true,,,,,,,,,,,,,18.8,,,,,,18.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2021,true,,,,,,,,,,,,,19.3,,,,,,19.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2021,true,,,,,,,,,,,,,19.6,,,,,,19.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,SWE,Sweden,Year,2021,true,,,,,,,,,,,,,2.1,,,,,,2.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,DNK,Denmark,Year,2021,true,,,,,,,,,,,,,2.3,,,,,,2.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ISL,Iceland,Year,2021,true,,,,,,,,,,,,,2.4,,,,,,2.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2021,true,,,,,,,,,,,,,2.4,,,,,,2.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2021,true,,,,,,,,,,,,,2.4,,,,,,2.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,AND,Andorra,Year,2021,true,,,,,,,,,,,,,2.5,,,,,,2.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2021,true,,,,,,,,,,,,,2.7,,,,,,2.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,IRL,Ireland,Year,2021,true,,,,,,,,,,,,,2.8,,,,,,2.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2021,true,,,,,,,,,,,,,20.1,,,,,,20.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,MWI,Malawi,Year,2021,true,,,,,,,,,,,,,20.2,,,,,,20.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,MLI,Mali,Year,2021,true,,,,,,,,,,,,,20.2,,,,,,20.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2021,true,,,,,,,,,,,,,20.2,,,,,,20.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2021,true,,,,,,,,,,,,,20.6,,,,,,20.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2021,true,,,,,,,,,,,,,20.6,,,,,,20.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,SEN,Senegal,Year,2021,true,,,,,,,,,,,,,20.8,,,,,,20.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2021,true,,,,,,,,,,,,,21,,,,,,21.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2021,true,,,,,,,,,,,,,21.5,,,,,,21.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2021,true,,,,,,,,,,,,,21.5,,,,,,21.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2021,true,,,,,,,,,,,,,21.6,,,,,,21.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,GMB,Gambia,Year,2021,true,,,,,,,,,,,,,22,,,,,,22.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,NAM,Namibia,Year,2021,true,,,,,,,,,,,,,22,,,,,,22.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2021,true,,,,,,,,,,,,,22.2,,,,,,22.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2021,true,,,,,,,,,,,,,22.5,,,,,,22.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,TGO,Togo,Year,2021,true,,,,,,,,,,,,,22.7,,,,,,22.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2021,true,,,,,,,,,,,,,23.1,,,,,,23.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2021,true,,,,,,,,,,,,,23.3,,,,,,23.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2021,true,,,,,,,,,,,,,23.3,,,,,,23.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2021,true,,,,,,,,,,,,,23.4,,,,,,23.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2021,true,,,,,,,,,,,,,24.1,,,,,,24.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2021,true,,,,,,,,,,,,,24.5,,,,,,24.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2021,true,,,,,,,,,,,,,24.7,,,,,,24.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,BEN,Benin,Year,2021,true,,,,,,,,,,,,,24.8,,,,,,24.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,NER,Niger,Year,2021,true,,,,,,,,,,,,,24.9,,,,,,24.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2021,true,,,,,,,,,,,,,25.4,,,,,,25.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2021,true,,,,,,,,,,,,,25.9,,,,,,25.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,GHA,Ghana,Year,2021,true,,,,,,,,,,,,,25.9,,,,,,25.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,TCD,Chad,Year,2021,true,,,,,,,,,,,,,26.4,,,,,,26.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2021,true,,,,,,,,,,,,,27.4,,,,,,27.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2021,true,,,,,,,,,,,,,27.8,,,,,,27.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,KEN,Kenya,Year,2021,true,,,,,,,,,,,,,28.2,,,,,,28.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2021,true,,,,,,,,,,,,,28.2,,,,,,28.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,COM,Comoros,Year,2021,true,,,,,,,,,,,,,29,,,,,,29.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2021,true,,,,,,,,,,,,,29.8,,,,,,29.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2021,true,,,,,,,,,,,,,29.9,,,,,,29.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2021,true,,,,,,,,,,,,,29.9,,,,,,29.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,DEU,Germany,Year,2021,true,,,,,,,,,,,,,3.3,,,,,,3.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2021,true,,,,,,,,,,,,,3.4,,,,,,3.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ESP,Spain,Year,2021,true,,,,,,,,,,,,,3.5,,,,,,3.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2021,true,,,,,,,,,,,,,3.6,,,,,,3.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2021,true,,,,,,,,,,,,,3.9,,,,,,3.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2021,true,,,,,,,,,,,,,3.9,,,,,,3.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2021,true,,,,,,,,,,,,,30.5,,,,,,30.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,HTI,Haiti,Year,2021,true,,,,,,,,,,,,,31.3,,,,,,31.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2021,true,,,,,,,,,,,,,34,,,,,,34.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,GIN,Guinea,Year,2021,true,,,,,,,,,,,,,37.4,,,,,,37.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,FIN,Finland,Year,2021,true,,,,,,,,,,,,,4.2,,,,,,4.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ISR,Israel,Year,2021,true,,,,,,,,,,,,,4.2,,,,,,4.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,EST,Estonia,Year,2021,true,,,,,,,,,,,,,4.4,,,,,,4.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2021,true,,,,,,,,,,,,,4.5,,,,,,4.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,AUT,Austria,Year,2021,true,,,,,,,,,,,,,4.6,,,,,,4.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,BEL,Belgium,Year,2021,true,,,,,,,,,,,,,4.6,,,,,,4.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,CAN,Canada,Year,2021,true,,,,,,,,,,,,,4.7,,,,,,4.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,FRA,France,Year,2021,true,,,,,,,,,,,,,4.7,,,,,,4.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2021,true,,,,,,,,,,,,,4.7,,,,,,4.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2021,true,,,,,,,,,,,,,4.8,,,,,,4.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ITA,Italy,Year,2021,true,,,,,,,,,,,,,5,,,,,,5.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2021,true,,,,,,,,,,,,,5,,,,,,5.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,CZE,Czechia,Year,2021,true,,,,,,,,,,,,,5.2,,,,,,5.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2021,true,,,,,,,,,,,,,5.3,,,,,,5.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,CUB,Cuba,Year,2021,true,,,,,,,,,,,,,5.4,,,,,,5.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2021,true,,,,,,,,,,,,,5.7,,,,,,5.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2021,true,,,,,,,,,,,,,5.8,,,,,,5.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,SMR,San Marino,Year,2021,true,,,,,,,,,,,,,5.9,,,,,,5.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2021,true,,,,,,,,,,,,,5.9,,,,,,5.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2021,true,,,,,,,,,,,,,6.2,,,,,,6.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2021,true,,,,,,,,,,,,,6.3,,,,,,6.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,GRD,Grenada,Year,2021,true,,,,,,,,,,,,,6.4,,,,,,6.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2021,true,,,,,,,,,,,,,6.4,,,,,,6.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,POL,Poland,Year,2021,true,,,,,,,,,,,,,6.5,,,,,,6.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,TUR,Türkiye,Year,2021,true,,,,,,,,,,,,,6.5,,,,,,6.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2021,true,,,,,,,,,,,,,6.6,,,,,,6.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2021,true,,,,,,,,,,,,,6.6,,,,,,6.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2021,true,,,,,,,,,,,,,6.9,,,,,,6.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,PRT,Portugal,Year,2021,true,,,,,,,,,,,,,7.2,,,,,,7.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,GRC,Greece,Year,2021,true,,,,,,,,,,,,,7.3,,,,,,7.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,PAN,Panama,Year,2021,true,,,,,,,,,,,,,7.3,,,,,,7.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2021,true,,,,,,,,,,,,,7.3,,,,,,7.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,BLR,Belarus,Year,2021,true,,,,,,,,,,,,,7.4,,,,,,7.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,HUN,Hungary,Year,2021,true,,,,,,,,,,,,,7.4,,,,,,7.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,SRB,Serbia,Year,2021,true,,,,,,,,,,,,,7.4,,,,,,7.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2021,true,,,,,,,,,,,,,7.5,,,,,,7.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2021,true,,,,,,,,,,,,,8,,,,,,8.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2021,true,,,,,,,,,,,,,8,,,,,,8.0,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2021,true,,,,,,,,,,,,,8.1,,,,,,8.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,HRV,Croatia,Year,2021,true,,,,,,,,,,,,,8.1,,,,,,8.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2021,true,,,,,,,,,,,,,8.4,,,,,,8.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,COG,Congo,Year,2021,true,,,,,,,,,,,,,8.4,,,,,,8.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2021,true,,,,,,,,,,,,,8.5,,,,,,8.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,ARG,Argentina,Year,2021,true,,,,,,,,,,,,,8.8,,,,,,8.8,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2021,true,,,,,,,,,,,,,8.9,,,,,,8.9,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2021,true,,,,,,,,,,,,,9.1,,,,,,9.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2021,true,,,,,,,,,,,,,9.1,,,,,,9.1,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2021,true,,,,,,,,,,,,,9.2,,,,,,9.2,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2021,true,,,,,,,,,,,,,9.3,,,,,,9.3,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2021,true,,,,,,,,,,,,,9.4,,,,,,9.4,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2021,true,,,,,,,,,,,,,9.5,,,,,,9.5,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,ROU,Romania,Year,2021,true,,,,,,,,,,,,,9.6,,,,,,9.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2021,true,,,,,,,,,,,,,9.6,,,,,,9.6,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2021,true,,,,,,,,,,,,,9.7,,,,,,9.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2021,true,,,,,,,,,,,,,9.7,,,,,,9.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2021,true,,,,,,,,,,,,,9.7,,,,,,9.7,,,EN,2024-04-14T18:30:00.000Z
+RS_198,Estimated road traffic death rate (per 100 000 population),numeric,EUR,Europe,Country,LVA,Latvia,Year,2021,true,,,,,,,,,,,,,9.8,,,,,,9.8,,,EN,2024-04-14T18:30:00.000Z

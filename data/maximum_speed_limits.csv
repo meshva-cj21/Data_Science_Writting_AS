@@ -1,0 +1,176 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+RS_217,Maximum speed limits,text,AFR,Africa,Country,BEN,Benin,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,COM,Comoros,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,DMA,Dominica,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,GIN,Guinea,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,HND,Honduras,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,TGO,Togo,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,Speed limits are established at subnational level per streets' names,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,?,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,100,,"Speed limit for public roads is 100 km/h for a road with a surface of concrete, bitumen or tar and 80 km/h for other roads",EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,IND,India,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,100,,Speed limit set per vehicle type with a maximum speed limit of 100 km/h for passengers cars comprising not more than eight seats in addition to the driver�s seat,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,100,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,112,,Speed limit set per vehicle type with a maximum speed limit of 70 miles per hour (112 km/h) for  light vehicles,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,MEX,Mexico,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,20,,70,20 - 70,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,24,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,SYC,Seychelles,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,25,,80,25 - 80,,Speed limits depend on the geographical area considered: the maximum speed limit is 40 km/h on roads in  Greater Victoria and 80 km/h on any other roads; different speed limits are set for the island of praslin and la digue subject respectively to a 65 km/h and 25 km/h speed limit,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,30,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,30,,"Speed limit set per vehicle type with a maximum speed limit of 30 km/h for specified vehicles, except in designated areas with higher speeds",EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,32,,"Applies in the City of Saint John's and in designated ""speed limit areas""",EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,GRD,Grenada,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,32,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,USA,United States of America,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,32,,128,32 - 128,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ALB,Albania,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,BLZ,Belize,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,Can be increased to an unspecified speed under certain circumstances,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,LBR,Liberia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,"Speed limit set per vehicle type with a maximum speed limit of 80 km/h for specified vehicles including cars, and a maximum limit of 40 km/h in an area with dense settlement",EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,SUR,Suriname,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,45,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,URY,Uruguay,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,45,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,JAM,Jamaica,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,48,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,48,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,48,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,AUS,Australia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,AUT,Austria,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,BEL,Belgium,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased up to an unspecified speed,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,BGR,Bulgaria,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,BDI,Burundi,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,CAN,Canada,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,CHN,China,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,COK,Cook Islands,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,"Speed limit applicable on any road, decreased to 30 km/h in reduced speed zones",EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,CRI,Costa Rica,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,HRV,Croatia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased up to 80 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,CUB,Cuba,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,CZE,Czechia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased up to 80 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,DNK,Denmark,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,SLV,El Salvador,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,EST,Estonia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased up to 90 km/h on certain conditions,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,FJI,Fiji,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,FIN,Finland,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,FRA,France,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,DEU,Germany,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,GHA,Ghana,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,GRC,Greece,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,HUN,Hungary,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ISL,Iceland,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,IRL,Ireland,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ISR,Israel,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ITA,Italy,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,KEN,Kenya,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,LVA,Latvia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,LSO,Lesotho,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,LTU,Lithuania,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased or decreased to an unspecified speed under certain circumstances,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,MDG,Madagascar,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be modified up to 80 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,MWI,Malawi,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,MLI,Mali,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,MLT,Malta,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,MNE,Montenegro,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,NER,Niger,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,NGA,Nigeria,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,MKD,North Macedonia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased up to 70 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,NOR,Norway,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,PRY,Paraguay,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,POL,Poland,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,60 km/h from 23:00 - 05:00,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,PRT,Portugal,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ROU,Romania,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,SRB,Serbia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased to 80 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,SVK,Slovakia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,SVN,Slovenia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,Can be increased up to 70 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,SSD,South Sudan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ESP,Spain,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,SWE,Sweden,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,CHE,Switzerland,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,TUR,Türkiye,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,TON,Tonga,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,UGA,Uganda,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,50,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,WSM,Samoa,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,56,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,AGO,Angola,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,ARG,Argentina,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,BLR,Belarus,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,BWA,Botswana,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,CMR,Cameroon,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,TCD,Chad,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,CHL,Chile,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,Can be increased up to an unspecified limit under certain circumstances,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,COG,Congo,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,Traffic signs may on certain public highways provide for a higher speed limit not exceeding 80 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,ECU,Ecuador,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,ERI,Eritrea,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,GAB,Gabon,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,GEO,Georgia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,GTM,Guatemala,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,JPN,Japan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,Can be increased up to 90 km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,MOZ,Mozambique,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,NAM,Namibia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,PER,Peru,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,RUS,Russian Federation,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,ZAF,South Africa,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,TJK,Tajikistan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,TKM,Turkmenistan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,UKR,Ukraine,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,GUY,Guyana,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,64,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,CYP,Cyprus,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,65,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,SMR,San Marino,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,70,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,70,,Different speed limits are set in urban areas ranging from 30 km/h to 70km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,70,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,BRB,Barbados,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,Speed limit set per vehicle type with a maximum speed limit of 80 km/h for specified vehicles including private motor cars,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,BRA,Brazil,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,Can be increased up to an unspecified speed,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,COL,Colombia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,MRT,Mauritania,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AMR,Americas,Country,PAN,Panama,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,RWA,Rwanda,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,Speed limit set per vehicle type with a maximum speed limit of 80 km/h for passengers cars (not exceeding 3500 kg),EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,90,,"Speed limit set per vehicle type with a maximum speed limit of 90 km/h for fast moving vehicles, decreased by 20 km/h in mountain paths",EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EUR,Europe,Country,ARM,Armenia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,90,,The limit in residential area is reduced to 60km/h,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,90,,Speed limit set per vehicle and road type with a maximum speed limit for passengers cars of 110km/h on highways and 90 km/h on other roads,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,MUS,Mauritius,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,GMB,Gambia,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,No,823,,EN,2020-06-04T18:30:00.000Z
+RS_217,Maximum speed limits,text,AFR,Africa,Country,SEN,Senegal,Year,2017,true,Residence Area Type,Urban,RESIDENCEAREATYPE_URB,,,,,,,,,,,,,,,,No,823,,EN,2020-06-04T18:30:00.000Z

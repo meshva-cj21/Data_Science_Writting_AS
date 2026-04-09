@@ -1,0 +1,196 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,MCO,Monaco,Year,2021,true,,,,,,,,,,,,,0,,,0,,1,0 [0-1],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2021,true,,,,,,,,,,,,,1,,,1,,1,1 [1-1],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,MLT,Malta,Year,2021,true,,,,,,,,,,,,,10,,,8,,12,10 [8-12],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2021,true,,,,,,,,,,,,,10052,,,8246,,11858,10 052 [8246-11 858],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2021,true,,,,,,,,,,,,,10263,,,9121,,11405,10 263 [9121-11 405],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2021,true,,,,,,,,,,,,,10405,,,9138,,11671,10 405 [9138-11 671],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2021,true,,,,,,,,,,,,,11,,,9,,12,11 [9-12],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2021,true,,,,,,,,,,,,,11062,,,10153,,11972,11 062 [10 153-11 972],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2021,true,,,,,,,,,,,,,110,,,96,,124,110 [96-124],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2021,true,,,,,,,,,,,,,1163,,,1086,,1240,1163 [1086-1240],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2021,true,,,,,,,,,,,,,1165,,,983,,1347,1165 [983-1347],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2021,true,,,,,,,,,,,,,118,,,106,,129,118 [106-129],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2021,true,,,,,,,,,,,,,120,,,113,,126,120 [113-126],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2021,true,,,,,,,,,,,,,1217,,,1061,,1373,1217 [1061-1373],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,GUY,Guyana,Year,2021,true,,,,,,,,,,,,,122,,,114,,130,122 [114-130],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2021,true,,,,,,,,,,,,,122,,,114,,130,122 [114-130],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2021,true,,,,,,,,,,,,,126,,,111,,142,126 [111-142],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,DNK,Denmark,Year,2021,true,,,,,,,,,,,,,134,,,125,,143,134 [125-143],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2021,true,,,,,,,,,,,,,1352,,,1239,,1464,1352 [1239-1464],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2021,true,,,,,,,,,,,,,1358,,,1264,,1452,1358 [1264-1452],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2021,true,,,,,,,,,,,,,14528,,,12983,,16073,14 528 [12 983-16 073],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2021,true,,,,,,,,,,,,,14926,,,13002,,16851,14 926 [13 002-16 851],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2021,true,,,,,,,,,,,,,1405,,,1299,,1511,1405 [1299-1511],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,IRL,Ireland,Year,2021,true,,,,,,,,,,,,,141,,,129,,153,141 [129-153],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2021,true,,,,,,,,,,,,,1412,,,1129,,1696,1412 [1129-1696],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2021,true,,,,,,,,,,,,,1483,,,1290,,1676,1483 [1290-1676],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,MEX,Mexico,Year,2021,true,,,,,,,,,,,,,15267,,,14269,,16265,15 267 [14 269-16 265],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2021,true,,,,,,,,,,,,,15335,,,14020,,16650,15 335 [14 020-16 650],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2021,true,,,,,,,,,,,,,15615,,,12655,,18574,15 615 [12 655-18 574],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2021,true,,,,,,,,,,,,,1514,,,1281,,1747,1514 [1281-1747],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,BDI,Burundi,Year,2021,true,,,,,,,,,,,,,1546,,,1236,,1857,1546 [1236-1857],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2021,true,,,,,,,,,,,,,1563,,,1286,,1841,1563 [1286-1841],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2021,true,,,,,,,,,,,,,159,,,142,,175,159 [142-175],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2021,true,,,,,,,,,,,,,16,,,14,,18,16 [14-18],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2021,true,,,,,,,,,,,,,16,,,14,,18,16 [14-18],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2021,true,,,,,,,,,,,,,16,,,15,,18,16 [15-18],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2021,true,,,,,,,,,,,,,1606,,,1511,,1701,1606 [1511-1701],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ESP,Spain,Year,2021,true,,,,,,,,,,,,,1653,,,1576,,1730,1653 [1576-1730],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2021,true,,,,,,,,,,,,,17229,,,15364,,19093,17 229 [15 364-19 093],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2021,true,,,,,,,,,,,,,175,,,164,,186,175 [164-186],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2021,true,,,,,,,,,,,,,1769,,,1635,,1904,1769 [1635-1904],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2021,true,,,,,,,,,,,,,18156,,,15856,,20456,18 156 [15 856-20 456],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2021,true,,,,,,,,,,,,,18218,,,16787,,19649,18 218 [16 787-19 649],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,CAN,Canada,Year,2021,true,,,,,,,,,,,,,1805,,,1701,,1909,1805 [1701-1909],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,LVA,Latvia,Year,2021,true,,,,,,,,,,,,,183,,,168,,197,183 [168-197],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ROU,Romania,Year,2021,true,,,,,,,,,,,,,1856,,,1681,,2030,1856 [1681-2030],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,HND,Honduras,Year,2021,true,,,,,,,,,,,,,1904,,,1746,,2063,1904 [1746-2063],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2021,true,,,,,,,,,,,,,192,,,153,,231,192 [153-231],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,TGO,Togo,Year,2021,true,,,,,,,,,,,,,1961,,,1644,,2277,1961 [1644-2277],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2021,true,,,,,,,,,,,,,197,,,184,,210,197 [184-210],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,AND,Andorra,Year,2021,true,,,,,,,,,,,,,2,,,2,,2,2 [2-2],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,SMR,San Marino,Year,2021,true,,,,,,,,,,,,,2,,,2,,2,2 [2-2],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2021,true,,,,,,,,,,,,,2,,,2,,2,2 [2-2],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2021,true,,,,,,,,,,,,,2004,,,1786,,2222,2004 [1786-2222],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,CHL,Chile,Year,2021,true,,,,,,,,,,,,,2009,,,1911,,2106,2009 [1911-2106],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,IND,India,Year,2021,true,,,,,,,,,,,,,205894,,,183703,,228085,205 894 [183 703-228 085],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2021,true,,,,,,,,,,,,,206,,,194,,219,206 [194-219],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2021,true,,,,,,,,,,,,,21,,,19,,23,21 [19-23],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2021,true,,,,,,,,,,,,,21258,,,18363,,24153,21 258 [18 363-24 153],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2021,true,,,,,,,,,,,,,2127,,,1987,,2268,2127 [1987-2268],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,SWE,Sweden,Year,2021,true,,,,,,,,,,,,,217,,,199,,234,217 [199-234],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2021,true,,,,,,,,,,,,,2221,,,2050,,2391,2221 [2050-2391],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2021,true,,,,,,,,,,,,,2287,,,1996,,2578,2287 [1996-2578],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,FIN,Finland,Year,2021,true,,,,,,,,,,,,,232,,,214,,250,232 [214-250],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2021,true,,,,,,,,,,,,,2340,,,2147,,2534,2340 [2147-2534],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,COM,Comoros,Year,2021,true,,,,,,,,,,,,,238,,,205,,271,238 [205-271],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2021,true,,,,,,,,,,,,,239,,,199,,279,239 [199-279],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,POL,Poland,Year,2021,true,,,,,,,,,,,,,2474,,,2303,,2645,2474 [2303-2645],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,CHN,China,Year,2021,true,,,,,,,,,,,,,248099,,,233685,,262513,248 099 [233 685-262 513],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2021,true,,,,,,,,,,,,,25,,,23,,27,25 [23-27],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2021,true,,,,,,,,,,,,,2500,,,1966,,3035,2500 [1966-3035],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2021,true,,,,,,,,,,,,,2513,,,2221,,2805,2513 [2221-2805],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2021,true,,,,,,,,,,,,,258,,,227,,288,258 [227-288],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2021,true,,,,,,,,,,,,,26,,,21,,31,26 [21-31],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2021,true,,,,,,,,,,,,,27568,,,23854,,31282,27 568 [23 854-31 282],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,DEU,Germany,Year,2021,true,,,,,,,,,,,,,2778,,,2596,,2960,2778 [2596-2960],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2021,true,,,,,,,,,,,,,278,,,264,,293,278 [264-293],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,BRB,Barbados,Year,2021,true,,,,,,,,,,,,,28,,,25,,31,28 [25-31],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2021,true,,,,,,,,,,,,,2870,,,2322,,3419,2870 [2322-3419],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,GAB,Gabon,Year,2021,true,,,,,,,,,,,,,293,,,253,,333,293 [253-333],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2021,true,,,,,,,,,,,,,295,,,248,,342,295 [248-342],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ITA,Italy,Year,2021,true,,,,,,,,,,,,,2964,,,2785,,3143,2964 [2785-3143],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2021,true,,,,,,,,,,,,,3,,,3,,4,3 [3-4],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,FRA,France,Year,2021,true,,,,,,,,,,,,,3035,,,2743,,3328,3035 [2743-3328],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2021,true,,,,,,,,,,,,,3048,,,2826,,3270,3048 [2826-3270],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ALB,Albania,Year,2021,true,,,,,,,,,,,,,309,,,289,,329,309 [289-329],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2021,true,,,,,,,,,,,,,31063,,,27226,,34901,31 063 [27 226-34 901],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2021,true,,,,,,,,,,,,,31578,,,27441,,35716,31 578 [27 441-35 716],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2021,true,,,,,,,,,,,,,3113,,,2804,,3422,3113 [2804-3422],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2021,true,,,,,,,,,,,,,3155,,,2678,,3633,3155 [2678-3633],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,PAN,Panama,Year,2021,true,,,,,,,,,,,,,316,,,289,,342,316 [289-342],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,BEN,Benin,Year,2021,true,,,,,,,,,,,,,3225,,,2645,,3804,3225 [2645-3804],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,HRV,Croatia,Year,2021,true,,,,,,,,,,,,,328,,,308,,348,328 [308-348],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,BRA,Brazil,Year,2021,true,,,,,,,,,,,,,33586,,,30470,,36701,33 586 [30 470-36 701],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2021,true,,,,,,,,,,,,,3304,,,2910,,3699,3304 [2910-3699],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2021,true,,,,,,,,,,,,,3338,,,2811,,3866,3338 [2811-3866],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2021,true,,,,,,,,,,,,,338,,,318,,358,338 [318-358],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2021,true,,,,,,,,,,,,,3440,,,2811,,4068,3440 [2811-4068],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2021,true,,,,,,,,,,,,,346,,,324,,369,346 [324-369],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,SEN,Senegal,Year,2021,true,,,,,,,,,,,,,3502,,,3005,,3999,3502 [3005-3999],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2021,true,,,,,,,,,,,,,3570,,,3301,,3839,3570 [3301-3839],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,HTI,Haiti,Year,2021,true,,,,,,,,,,,,,3579,,,3102,,4056,3579 [3102-4056],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2021,true,,,,,,,,,,,,,36722,,,32053,,41391,36 722 [32 053-41 391],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2021,true,,,,,,,,,,,,,3718,,,3394,,4041,3718 [3394-4041],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ISR,Israel,Year,2021,true,,,,,,,,,,,,,375,,,343,,407,375 [343-407],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ARM,Armenia,Year,2021,true,,,,,,,,,,,,,379,,,350,,409,379 [350-409],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2021,true,,,,,,,,,,,,,389,,,345,,432,389 [345-432],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,ARG,Argentina,Year,2021,true,,,,,,,,,,,,,3983,,,3743,,4223,3983 [3743-4223],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2021,true,,,,,,,,,,,,,4,,,3,,4,4 [3-4],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2021,true,,,,,,,,,,,,,40,,,36,,44,40 [36-44],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,MWI,Malawi,Year,2021,true,,,,,,,,,,,,,4023,,,3326,,4720,4023 [3326-4720],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,PRI,Puerto Rico,Year,2021,true,,,,,,,,,,,,,407,,,364,,451,407 [364-451],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,AUT,Austria,Year,2021,true,,,,,,,,,,,,,409,,,386,,432,409 [386-432],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2021,true,,,,,,,,,,,,,414,,,391,,437,414 [391-437],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2021,true,,,,,,,,,,,,,4173,,,3846,,4501,4173 [3846-4501],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,BWA,Botswana,Year,2021,true,,,,,,,,,,,,,426,,,376,,475,426 [376-475],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,PER,Peru,Year,2021,true,,,,,,,,,,,,,4284,,,3991,,4577,4284 [3991-4577],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2021,true,,,,,,,,,,,,,438,,,369,,506,438 [369-506],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,MLI,Mali,Year,2021,true,,,,,,,,,,,,,4429,,,3671,,5188,4429 [3671-5188],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,URY,Uruguay,Year,2021,true,,,,,,,,,,,,,447,,,413,,482,447 [413-482],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2021,true,,,,,,,,,,,,,447,,,425,,470,447 [425-470],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,TCD,Chad,Year,2021,true,,,,,,,,,,,,,4533,,,3722,,5343,4533 [3722-5343],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2021,true,,,,,,,,,,,,,4558,,,4373,,4743,4558 [4373-4743],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2021,true,,,,,,,,,,,,,4680,,,4170,,5189,4680 [4170-5189],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,USA,United States of America,Year,2021,true,,,,,,,,,,,,,47750,,,44464,,51035,47 750 [44 464-51 035],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,GEO,Georgia,Year,2021,true,,,,,,,,,,,,,476,,,444,,507,476 [444-507],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2021,true,,,,,,,,,,,,,4782,,,3874,,5691,4782 [3874-5691],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,COG,Congo,Year,2021,true,,,,,,,,,,,,,488,,,403,,572,488 [403-572],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2021,true,,,,,,,,,,,,,49,,,46,,51,49 [46-51],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2021,true,,,,,,,,,,,,,49,,,46,,52,49 [46-52],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2021,true,,,,,,,,,,,,,492,,,426,,558,492 [426-558],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2021,true,,,,,,,,,,,,,497,,,433,,560,497 [433-560],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2021,true,,,,,,,,,,,,,5,,,5,,6,5 [5-6],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2021,true,,,,,,,,,,,,,5,,,5,,6,5 [5-6],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2021,true,,,,,,,,,,,,,502,,,454,,550,502 [454-550],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,GIN,Guinea,Year,2021,true,,,,,,,,,,,,,5061,,,4277,,5845,5061 [4277-5845],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2021,true,,,,,,,,,,,,,509,,,472,,546,509 [472-546],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,AGO,Angola,Year,2021,true,,,,,,,,,,,,,5188,,,4301,,6075,5188 [4301-6075],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,BEL,Belgium,Year,2021,true,,,,,,,,,,,,,532,,,481,,583,532 [481-583],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,SRB,Serbia,Year,2021,true,,,,,,,,,,,,,537,,,510,,564,537 [510-564],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2021,true,,,,,,,,,,,,,544,,,471,,617,544 [471-617],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,CZE,Czechia,Year,2021,true,,,,,,,,,,,,,548,,,507,,590,548 [507-590],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2021,true,,,,,,,,,,,,,5528,,,4945,,6112,5528 [4945-6112],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2021,true,,,,,,,,,,,,,557,,,486,,628,557 [486-628],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,NAM,Namibia,Year,2021,true,,,,,,,,,,,,,557,,,488,,625,557 [488-625],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2021,true,,,,,,,,,,,,,5670,,,4883,,6456,5670 [4883-6456],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2021,true,,,,,,,,,,,,,57,,,54,,60,57 [54-60],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2021,true,,,,,,,,,,,,,578,,,546,,611,578 [546-611],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,GMB,Gambia,Year,2021,true,,,,,,,,,,,,,582,,,479,,685,582 [479-685],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,EST,Estonia,Year,2021,true,,,,,,,,,,,,,59,,,55,,64,59 [55-64],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2021,true,,,,,,,,,,,,,600,,,554,,646,600 [554-646],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,CUB,Cuba,Year,2021,true,,,,,,,,,,,,,613,,,556,,670,613 [556-670],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2021,true,,,,,,,,,,,,,6137,,,5032,,7242,6137 [5032-7242],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,NER,Niger,Year,2021,true,,,,,,,,,,,,,6278,,,5131,,7425,6278 [5131-7425],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2021,true,,,,,,,,,,,,,629,,,539,,718,629 [539-718],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2021,true,,,,,,,,,,,,,6383,,,5269,,7497,6383 [5269-7497],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2021,true,,,,,,,,,,,,,640,,,542,,738,640 [542-738],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2021,true,,,,,,,,,,,,,6451,,,5327,,7574,6451 [5327-7574],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2021,true,,,,,,,,,,,,,6512,,,5585,,7438,6512 [5585-7438],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2021,true,,,,,,,,,,,,,66,,,59,,72,66 [59-72],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2021,true,,,,,,,,,,,,,6651,,,6537,,6787,6651 [6537-6787],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2021,true,,,,,,,,,,,,,6900,,,6204,,7597,6900 [6204-7597],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2021,true,,,,,,,,,,,,,7,,,6,,8,7 [6-8],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2021,true,,,,,,,,,,,,,7,,,6,,8,7 [6-8],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2021,true,,,,,,,,,,,,,7,,,6,,8,7 [6-8],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,BLZ,Belize,Year,2021,true,,,,,,,,,,,,,70,,,66,,75,70 [66-75],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,BLR,Belarus,Year,2021,true,,,,,,,,,,,,,706,,,650,,761,706 [650-761],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,HUN,Hungary,Year,2021,true,,,,,,,,,,,,,718,,,664,,773,718 [664-773],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,UGA,Uganda,Year,2021,true,,,,,,,,,,,,,7315,,,5617,,9013,7315 [5617-9013],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,PRT,Portugal,Year,2021,true,,,,,,,,,,,,,736,,,698,,775,736 [698-775],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,GRC,Greece,Year,2021,true,,,,,,,,,,,,,762,,,709,,815,762 [709-815],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2021,true,,,,,,,,,,,,,77,,,73,,82,77 [73-82],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2021,true,,,,,,,,,,,,,79,,,71,,86,79 [71-86],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,LBR,Liberia,Year,2021,true,,,,,,,,,,,,,794,,,651,,936,794 [651-936],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2021,true,,,,,,,,,,,,,798,,,734,,863,798 [734-863],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,DMA,Dominica,Year,2021,true,,,,,,,,,,,,,8,,,7,,9,8 [7-9],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2021,true,,,,,,,,,,,,,8,,,8,,10,8 [8-10],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,GRD,Grenada,Year,2021,true,,,,,,,,,,,,,8,,,8,,9,8 [8-9],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,DZA,Algeria,Year,2021,true,,,,,,,,,,,,,8106,,,7119,,9094,8106 [7119-9094],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,NOR,Norway,Year,2021,true,,,,,,,,,,,,,82,,,76,,89,82 [76-89],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,COL,Colombia,Year,2021,true,,,,,,,,,,,,,8341,,,7693,,8988,8341 [7693-8988],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2021,true,,,,,,,,,,,,,8479,,,7622,,9336,8479 [7622-9336],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,GHA,Ghana,Year,2021,true,,,,,,,,,,,,,8494,,,7447,,9540,8494 [7447-9540],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2021,true,,,,,,,,,,,,,869,,,789,,949,869 [789-949],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2021,true,,,,,,,,,,,,,8967,,,7746,,10187,8967 [7746-10 187],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2021,true,,,,,,,,,,,,,9,,,8,,10,9 [8-10],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EUR,Europe,Country,ISL,Iceland,Year,2021,true,,,,,,,,,,,,,9,,,9,,10,9 [9-10],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2021,true,,,,,,,,,,,,,932,,,842,,1022,932 [842-1022],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2021,true,,,,,,,,,,,,,9344,,,8166,,10521,9344 [8166-10 521],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2021,true,,,,,,,,,,,,,95,,,84,,106,95 [84-106],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2021,true,,,,,,,,,,,,,9684,,,8542,,10826,9684 [8542-10 826],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2021,true,,,,,,,,,,,,,97,,,86,,107,97 [86-107],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2021,true,,,,,,,,,,,,,9821,,,8380,,11261,9821 [8380-11 261],,,EN,2024-04-14T18:30:00.000Z
+RS_196,Estimated number of road traffic deaths,numeric,AMR,Americas,Country,SUR,Suriname,Year,2021,true,,,,,,,,,,,,,99,,,93,,105,99 [93-105],,,EN,2024-04-14T18:30:00.000Z

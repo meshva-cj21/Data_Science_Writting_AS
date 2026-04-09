@@ -1,0 +1,701 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AUT,Austria,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRB,Barbados,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRB,Barbados,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRB,Barbados,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRB,Barbados,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BLR,Belarus,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BLR,Belarus,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BLR,Belarus,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BLR,Belarus,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BEN,Benin,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BEN,Benin,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BEN,Benin,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BEN,Benin,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TCD,Chad,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TCD,Chad,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TCD,Chad,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TCD,Chad,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COM,Comoros,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COM,Comoros,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COM,Comoros,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COM,Comoros,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COG,Congo,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CUB,Cuba,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CUB,Cuba,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CZE,Czechia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DNK,Denmark,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DMA,Dominica,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DMA,Dominica,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DMA,Dominica,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DMA,Dominica,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FRA,France,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FRA,France,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GRD,Grenada,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GRD,Grenada,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GRD,Grenada,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GRD,Grenada,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,HND,Honduras,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,HND,Honduras,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,HND,Honduras,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,HND,Honduras,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ITA,Italy,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ITA,Italy,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LVA,Latvia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MLI,Mali,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MLI,Mali,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MLI,Mali,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MLT,Malta,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MLT,Malta,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MLT,Malta,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MLT,Malta,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NER,Niger,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NER,Niger,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NER,Niger,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NER,Niger,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NOR,Norway,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PAN,Panama,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PAN,Panama,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PAN,Panama,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PAN,Panama,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ROU,Romania,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ROU,Romania,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ROU,Romania,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ROU,Romania,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SMR,San Marino,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SMR,San Marino,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SMR,San Marino,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SMR,San Marino,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TUR,Türkiye,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TUR,Türkiye,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TGO,Togo,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TGO,Togo,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TGO,Togo,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TGO,Togo,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,,,,,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,1,,,,,,< 1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,0.2,,,,,,0.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PER,Peru,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,0.4,,,,,,0.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,0.5,,,,,,0.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,AGO,Angola,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,10,,,,,,10,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,10,,,,,,10,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,10.1,,,,,,10.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,100,,,,,,100,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,100,,,,,,100,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,100,,,,,,100,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,100,,,,,,100,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,11,,,,,,11,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HRV,Croatia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,13.9,,,,,,13.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CHL,Chile,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,14,,,,,,14,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,14,,40,14 - 40,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,14.6,,,,,,14.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,15,,,,,,15,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ITA,Italy,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,15.4,,,,,,15.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PER,Peru,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,15.8,,,,,,15.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,17.5,,,,,,17.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,18,,,,,,18,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,18.4,,,,,,18.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,19.8,,,,,,19.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,2,,,,,,2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,COL,Colombia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,2.2,,,,,,2.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,20,,,,,,20,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MLI,Mali,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,20,,,,,,20,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,20,,,,,,20,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,20,,,,,,20,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,20,,50,20 - 50,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,20.8,,,,,,20.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,21,,,,,,21,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,21,,,,,,21,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COG,Congo,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,22,,,,,,22,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,22.3,,,,,,22.3,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GRC,Greece,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,23,,,,,,23,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,23.1,,,,,,23.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,25.8,,,,,,25.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,26,,,,,,26,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,3.1,,,,,,3.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,3.5,,,,,,3.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,3.5,,,,,,3.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,3.5,,11,3.5 - 11,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,30,,,,,,30,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CUB,Cuba,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,30,,,,,,30,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,30,,,,,,30,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,30,,,,,,30,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,31,,,,,,31,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PER,Peru,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,32.3,,,,,,32.3,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,33,,,,,,33,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,URY,Uruguay,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,33,,,,,,33,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,34,,,,,,34,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CUB,Cuba,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,35,,,,,,35,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,35,,,,,,35,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,35,,,,,,35,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,35.6,,,,,,35.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,36,,,,,,36,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,36.7,,,,,,36.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HUN,Hungary,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,38.5,,,,,,38.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COG,Congo,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,4,,,,,,4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,COG,Congo,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,4,,,,,,4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,4,,,,,,4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,AGO,Angola,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,40,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,40,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,40,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,40,,,,,,40,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TUR,Türkiye,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,40.6,,,,,,40.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,40.8,,,,,,40.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,41,,,,,,41,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,42,,,,,,42,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,43.6,,,,,,43.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,45,,,,,,45,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,COL,Colombia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,47.1,,,,,,47.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,48,,,,,,48,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,48.4,,,,,,48.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,49,,,,,,49,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CHL,Chile,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,49.6,,,,,,49.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,5,,,,,,5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,5,,,,,,5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,5,,,,,,5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,5.6,,,,,,5.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,TUR,Türkiye,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,50.1,,,,,,50.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,50.2,,,,,,50.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,50.2,,,,,,50.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,51,,,,,,51,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,51,,,,,,51,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LVA,Latvia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,53,,,,,,53,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,54,,,,,,54,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,55.6,,,,,,55.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HRV,Croatia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,58,,,,,,58,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,58,,,,,,58,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,PER,Peru,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,58.2,,,,,,58.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,58.9,,,,,,58.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CHL,Chile,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,59,,,,,,59,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,AGO,Angola,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,60,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,60,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,60,,,,,,60,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HRV,Croatia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,61.1,,,,,,61.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,61.8,,,,,,61.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HRV,Croatia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,61.9,,,,,,61.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ITA,Italy,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,61.9,,,,,,61.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,URY,Uruguay,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,62.8,,,,,,62.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,URY,Uruguay,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,62.8,,,,,,62.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,63.2,,,,,,63.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,64,,,,,,64,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,COL,Colombia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,64.2,,,,,,64.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,AGO,Angola,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,65,,,,,,65,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,65.5,,,,,,65.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,66,,83,66 - 83,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,66.2,,,,,,66.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,66.7,,,,,,66.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,68.5,,,,,,68.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,68.6,,,,,,68.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,69,,,,,,69,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,URY,Uruguay,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,69.1,,,,,,69.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISR,Israel,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,69.7,,,,,,69.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,7.4,,,,,,7.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,70,,,,,,70,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,70,,,,,,70,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,70,,,,,,70,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,71.8,,36,71.8/36,,"Percentage are for expressways and other roads, respectively",EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CZE,Czechia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,72,,,,,,72,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,72,,,,,,72,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GRC,Greece,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,72,,,,,,72,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,73.8,,,,,,73.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GRC,Greece,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,74,,,,,,74,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,IRL,Ireland,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,74,,,,,,74,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,USA,United States of America,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,74.8,,,,,,74.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,COL,Colombia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,75,,,,,,75,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,75.1,,,,,,75.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,75.1,,,,,,75.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CHL,Chile,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,76,,,,,,76,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,76,,,,,,76,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,POL,Poland,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,76,,,,,,76,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,76,,86,76 - 86,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,76.7,,,,,,76.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GRC,Greece,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,77,,,,,,77,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,77,,,,,,77,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,PRT,Portugal,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,77.2,,,,,,77.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,77.8,,,,,,77.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,79.4,,,,,,79.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,79.7,,,,,,79.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,8,,,,,,8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ALB,Albania,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,80,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,80,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,80,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,80,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,80,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,80,,,,,,80,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ESP,Spain,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,80.6,,,,,,80.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HUN,Hungary,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,81,,,,,,81,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LVA,Latvia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,81,,,,,,81,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,81.4,,,,,,81.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HUN,Hungary,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,81.7,,,,,,81.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,EST,Estonia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,81.8,,,,,,81.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,82,,,,,,82,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,82.2,,,,,,82.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,HUN,Hungary,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,82.8,,,,,,82.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,82.9,,,,,,82.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,83,,,,,,83,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,84,,,,,,84,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LVA,Latvia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,84.7,,,,,,84.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ALB,Albania,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,85,,,,,,85,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,85,,,,,,85,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BEL,Belgium,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,85.5,,,,,,85.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISL,Iceland,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,86,,,,,,86,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,86,,,,,,86,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ALB,Albania,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,87,,,,,,87,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISR,Israel,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,87.9,,,,,,87.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FRA,France,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,88,,,,,,88,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ESP,Spain,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,88.3,,,,,,88.3,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISR,Israel,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,88.7,,,,,,88.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DNK,Denmark,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,88,,,89,,96,88/89/96,,96 % for cars; 89 % for vans; 88 % for Taxi,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,89.2,,,,,,89.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,9.6,,,,,,9.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,9.7,,,,,,9.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISL,Iceland,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISL,Iceland,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SWE,Sweden,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,90,,,,,,90,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,USA,United States of America,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,90.1,,,,,,90.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,USA,United States of America,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,90.1,,,,,,90.1,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ESP,Spain,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,90.3,,,,,,90.3,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,,,,90.3,,94,90.3 - 94,,"Percentage are for «England and Scotland» and «NI», respectively",EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,90.4,,,,,,90.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ESP,Spain,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,90.5,,,,,,90.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,USA,United States of America,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,90.5,,,,,,90.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DNK,Denmark,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,91,,,,,,91,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,IRL,Ireland,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,91,,,,,,91,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISR,Israel,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,91.2,,,,,,91.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BEL,Belgium,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,91.5,,,,,,91.5,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BEL,Belgium,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,91.7,,,,,,91.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,91.8,,,,,,91.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,IRL,Ireland,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,92,,,,,,92,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,92,,,,,,92,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,92,,,,,,92,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,BEL,Belgium,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,92.2,,,,,,92.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AUT,Austria,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,93,,,,,,93,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ISL,Iceland,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,93,,,,,,93,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,93,,,,,,93,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,93,,,,,,93,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,93.8,,,,,,93.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,IRL,Ireland,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,POL,Poland,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,94,,,,,,94,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,94.6,,98,94.6 - 98k,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NOR,Norway,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,94.7,,96,94.7 - 96,,"Percentages reflect «urban» and «outside urban» areas, respectively",EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,PRT,Portugal,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,94.9,,,,,,94.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,94.9,,89.5,94.9/89.5,,"Percentage are for expressways and other roads, respectively",EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,ALB,Albania,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AUT,Austria,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,AUT,Austria,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CZE,Czechia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,EST,Estonia,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,POL,Poland,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95,,,,,,95,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,95.2,,,,,,95.2,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NOR,Norway,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,95.2,,95.7,95.2 - 95.7j,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,95.3,,,,,,95.3,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,95.3,,98,95.3 - 98k,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,95.7,,,,,,95.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,PRT,Portugal,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,95.7,,,,,,95.7,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,95.8,,,,,,95.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NOR,Norway,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,95.9,,97.7,95.9 - 97.7j,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,96,,,,,,96,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DNK,Denmark,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,96,,,,,,96,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,96,,,,,,96,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,POL,Poland,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,96,,,,,,96,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SWE,Sweden,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,96,,,,,,96,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,PRT,Portugal,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,96.4,,,,,,96.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,96.6,,,,,,96.6,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,96.9,,,,,,96.9,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,97,,,,,,97,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,97,,,,,,97,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,97,,,,,,97,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,97,,,,,,97,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SWE,Sweden,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,97,,,,,,97,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,EST,Estonia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,97.3,,,,,,97.3,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,97.4,,,,,,97.4,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,,,,97.5,,98,97.5 - 98,,"Percentage are for «England and Scotland» and «NI», respectively",EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,EST,Estonia,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,97.8,,,,,,97.8,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,CZE,Czechia,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,FRA,France,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DEU,Germany,Year,2017,true,Seat Type,All occupants,SEATTYPE_RS-DDC-ALLOCCUPANTS,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DEU,Germany,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DEU,Germany,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,SWE,Sweden,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,98,,,,,,98,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2017,true,Seat Type,Front seat,SEATTYPE_RS-DDC-FRONTSEAT,,,,,,,,,,,,,98,,94.9,98/94.9,,"Percentage are for expressways and other roads, respectively",EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,EUR,Europe,Country,DEU,Germany,Year,2017,true,Seat Type,Rear seat,SEATTYPE_RS-DDC-REARSEAT,,,,,,,,,,99,,,,,,99,,,EN,2020-06-04T18:30:00.000Z
+RS_212,Seat-belt wearing rate (%),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2017,true,Seat Type,Drivers only,SEATTYPE_RS-DDC-DRIVERSONLY,,,,,,,,,,,,,99.5,,98.5,99.5/98.5,,"Percentage are for expressways and other roads, respectively",EN,2020-06-04T18:30:00.000Z
