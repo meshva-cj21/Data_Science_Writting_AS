@@ -31,6 +31,7 @@ DATA_SCIENCE_WRITTING_AS/
 │   ├── seat_belt_wearing_rate.csv
 │   └── vehile_standards.csv
 │
+├── Road_Safety_Analysis.html
 ├── Road_Safety_Analysis.ipynb    # Main analysis notebook — hypotheses, stats, all visuals
 ├── app.py                        # Streamlit dashboard — interactive version of the analysis
 ├── merged_dataset.csv            # All 20 CSVs merged into one unified file (auto-generated)
