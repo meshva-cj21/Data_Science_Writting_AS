@@ -57,10 +57,10 @@ The key connections used in the analysis:
 | Analysis | Data Files Used |
 |---|---|
 | Death rate (main outcome) | `estimated_road_traffic_death_rate.csv` |
-| H1 — Income vs Death Rate | `estimated_road_traffic_death_rate.csv` + WHO region as income proxy |
-| H2 — Helmet Laws | `applicability_of_national_motorcycle_helmet_law_to_all_occupants.csv` + death rate |
-| H3 — Law Score | `existence_of_national_seat_belt_law.csv`, `existence_of_national_drink_driving_law.csv`, `existence_of_national_speed_limits.csv`, `existence_of_a_national_child_restraint_law.csv`, `applicability_of_national_motorcycle_helmet_law_to_all_occupants.csv` |
-| H4 — Regional Inequality | `estimated_road_traffic_death_rate.csv` grouped by WHO region |
+| Hypothesis 1 — Income vs Death Rate | `estimated_road_traffic_death_rate.csv` + WHO region as income proxy |
+| Hypothesis 2 — Helmet Laws | `applicability_of_national_motorcycle_helmet_law_to_all_occupants.csv` + death rate |
+| Hypothesis 3 — Law Score | `existence_of_national_seat_belt_law.csv`, `existence_of_national_drink_driving_law.csv`, `existence_of_national_speed_limits.csv`, `existence_of_a_national_child_restraint_law.csv`, `applicability_of_national_motorcycle_helmet_law_to_all_occupants.csv` |
+| Hypothesis 4 — Regional Inequality | `estimated_road_traffic_death_rate.csv` grouped by WHO region |
 | Additional Insights | `seat_belt_wearing_rate.csv`, `attribution_of_road_traffic_deaths_to_alcohol.csv`, `distribution_of_road_traffic_deaths_by_type_of_road_user.csv` |
 
 ---
